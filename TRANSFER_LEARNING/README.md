@@ -47,7 +47,7 @@ Based on the practical experiments carried out in this lab:
 
 ### 🔧 **Technologies Used**
 - **Python** 🐍 for scripting and automation.
-- **TensorFlow/Keras or PyTorch** for building, fine-tuning, and training the model.
+- **PyTorch** for building, fine-tuning, and training the model.
 - **NumPy & Matplotlib** for data analysis and visualizing model performance.
 
 ### 🚀 **Next Steps in the Lab Series**
