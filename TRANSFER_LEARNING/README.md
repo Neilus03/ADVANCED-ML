@@ -55,5 +55,4 @@ This is just the beginning of your journey through **Advanced Machine Learning**
 
 Stay curious and enjoy the learning process! If you need help or have questions, don't hesitate to reach out—collaboration and inquiry are key in machine learning! 😊
 
----
-Feel free to enhance this README with your personal insights or add any interesting discoveries you make during the lab!
+
